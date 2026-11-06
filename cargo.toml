@@ -1,0 +1,8 @@
+[package]
+name = "pomodor_timer_inrust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.29"
+rodio = "0.19"
